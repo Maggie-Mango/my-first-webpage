@@ -2,11 +2,12 @@
 h3 {
   text-align:center;
   color:coral;
-}
+};
 
 img {
   transform: rotate(90deg); 
-}
+};
+
 h2 {
   font-style: italic;
   text-align: center;
@@ -19,4 +20,16 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+.wheat-background {
+  background-color:wheat
+}
+
+.magenta-background {
+  background-color: magenta;
+}
+
+.darkcyan-background {
+  background-color:darkcyan;
 }
