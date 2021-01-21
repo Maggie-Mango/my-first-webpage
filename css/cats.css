@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 h3 {
   text-align:center;
@@ -8,6 +9,16 @@ img {
   transform: rotate(90deg); 
 };
 
+=======
+h3 {
+  text-align:center;
+  color:coral;
+}
+
+img {
+  transform: rotate(90deg); 
+}
+>>>>>>> b0d4a993358dbdde6034612548d6d44b7c1b2cfb
 h2 {
   font-style: italic;
   text-align: center;
@@ -20,6 +31,7 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+<<<<<<< HEAD
 }
 
 .wheat-background {
@@ -32,4 +44,6 @@ ul {
 
 .darkcyan-background {
   background-color:darkcyan;
+=======
+>>>>>>> b0d4a993358dbdde6034612548d6d44b7c1b2cfb
 }
